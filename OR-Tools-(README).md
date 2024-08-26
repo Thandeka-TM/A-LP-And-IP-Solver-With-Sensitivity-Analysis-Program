@@ -1,6 +1,6 @@
 # Google OR-Tools
 
-This is the .NET wrapper of OR-Tools.
+This is the .NET wrapper of OR-Tools. 
 
 ## About OR-Tools
 
